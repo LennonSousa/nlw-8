@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { FeedbackType, feedbacktypes } from "..";
 import { CloseButton } from "../../CloseButton";
 
